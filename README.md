@@ -2,3 +2,4 @@
 andre forsøk
 
 Type: Windows 11 Home, Versjon: 22H2
+GitHub Brukernavn: BappoAvocado
