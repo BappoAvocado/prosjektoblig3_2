@@ -2,3 +2,5 @@
 andre forsøk
 
 Type: Windows 11 Home, Versjon: 22H2
+git version: 2.42.0.windows.2
+GitHub Brukernavn: BappoAvocado
